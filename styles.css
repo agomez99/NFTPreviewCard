@@ -63,10 +63,8 @@ main {
 .card-img-top {
   border-radius: 15px;
 }
-
-.card-title {
-  color: white;
-  font-size: 1.3rem;
+.card-title{
+  color:white;
 }
 .card-text {
   color: hsl(215, 51%, 70%);
