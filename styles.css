@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.card{
+  background-color: hsl(216, 50%, 16%);
+  padding: 15px;
+  border-radius: 15px;
+}
+main{
+  background-color: hsl(217, 54%, 11%);
+
+}
+.container-fluid{
+height: 100vh;
+}
+.card-img-top{
+  border-radius: 15px;
+}
+.card-title{
+  color:white;
+}
+.card-text{
+  color:hsl(215, 51%, 70%);
+  font-size:18px;
+  font-weight: 300;
+  padding-top: 5%;
+}
+
+.creator{
+  color:hsl(215, 51%, 70%);
+
+}
+.stats{
+    width:18rem;
+}
+.icon-ethereum{
+    margin-right: 5px;
+}
+.icon-clock{
+    margin-left: auto; 
+    margin-right: 5px;
+}
+
+.eth{
+  color:hsl(178, 100%, 50%)
+}
+.days{
+  color:hsl(215, 51%, 70%);
+
+}
+.name{
+    color:white;
+}
+.card-footer{
+border-color:  hsl(215, 32%, 27%);
+
+}
+.avatar{
+margin-right: 5%;
+border-radius: 50%;
+border: 1px solid white;
+}
+.info{
+    padding-top:5%;
+}
