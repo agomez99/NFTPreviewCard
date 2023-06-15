@@ -11,8 +11,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 A
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/agomez99/NFTPreviewCard](https://github.com/agomez99/NFTPreviewCard)
+- Live Site URL: [https://agomez99.github.io/NFTPreviewCard/](https://agomez99.github.io/NFTPreviewCard/)
 
 
 ### Built with
@@ -21,13 +21,11 @@ A
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
+- Bootstrap
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [https://austinegomez.com/](https://austinegomez.com/)
+- Frontend Mentor - [@agomez99](https://www.frontendmentor.io/profile/agomez99)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
