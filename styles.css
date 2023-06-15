@@ -65,6 +65,7 @@ main {
 }
 .card-title{
   color:white;
+  font-size: 1.8rem;
 }
 .card-text {
   color: hsl(215, 51%, 70%);
